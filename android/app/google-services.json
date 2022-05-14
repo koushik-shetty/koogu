@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971544939278",
+    "project_id": "koogu-2022",
+    "storage_bucket": "koogu-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971544939278:android:e615504fd8353bdc16655f",
+        "android_client_info": {
+          "package_name": "com.koogu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971544939278-cfg5m48g1mmbsp8mdboqgfre7ou0l24b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZk6K3X5SnsWqztjbGKcl_Zrh6TtZ_CxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971544939278-cfg5m48g1mmbsp8mdboqgfre7ou0l24b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
