@@ -97,14 +97,16 @@ Notifications.events().registerNotificationReceivedForeground((notification: Not
         <Header />
         <View
           style={{
-            backgroundColor: isDarkMode ? Colors.black : Colors.white,
+            backgroundColor: isDarkMode ? Colors.black : Colors.white
           }}>
-          <Section title="Step One">
+            
+            <Button title="Koushik Koogu"
+              color="#00cc00"
+              onPress={()=>{}}/>
+          {/* <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
-            {/* <Button>
 
-            </Button> */}
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -115,7 +117,7 @@ Notifications.events().registerNotificationReceivedForeground((notification: Not
           <Section title="Learn More">
             Read the docs to discover what to do next:
           </Section>
-          <LearnMoreLinks />
+          <LearnMoreLinks /> */}
         </View>
       </ScrollView>
     </SafeAreaView>
